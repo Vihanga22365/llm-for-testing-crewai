@@ -3,3 +3,9 @@ numpy
 pandas
 pydeck
 streamlit
+python-dotenv
+langchain-community 
+langchain 
+langchain-core 
+langchain-openai
+crewai 
